@@ -1,0 +1,70 @@
+Cry1Aa1 x Cry1Ac1 - (Turn 8)
+
+ELLL--LLLLEE
+SQAA--GAVYTL [438; 447]
+        |   
+RSGFsnSSVSII [437; 448]
+EELLllLLLEEE
+
+
+Cry1Aa1 x Cry2Aa1 - (Turn 8)
+
+EL--------------------LLLL-llee
+SQ--------------------AAGA-vytl [438; 447]
+                        |      
+LVirnedltrplhynqirniesPSGTpggar [431; 461]
+LLllhhhhllllllllllllllLLLLlllll
+
+
+Cry1Aa1 x Cry3Aa1 - (Turn 8)
+
+ELLLlllLEE
+SQAAgavYTL [438; 447]
+          
+LMQG---SRG [480; 486]
+ELHH---HLL
+
+
+Cry1Aa1 x Cry3Bb1 - (Turn 8)
+
+ELLlllLLEE
+SQAagaVYTL [438; 447]
+          
+LMQ---DRRG [483; 489]
+ELL---LLLL
+
+
+Cry1Aa1 x Cry4Aa1 - (Turn 8)
+
+ELLLllLLEE
+SQAAgaVYTL [438; 447]
+|  |   |  
+SIPA--TYKT [508; 515]
+LLLL--LLLL
+
+
+Cry1Aa1 x Cry4Ba1 - (Turn 8)
+
+ELlllllLEE
+SQaagavYTL [438; 447]
+       |  
+VI----dYNS [452; 457]
+EE----eLLE
+
+
+Cry1Aa1 x Cry5B - (Turn 8)
+
+ELLLlLLLEE--
+SQAAgAVYTL-- [438; 447]
+        |   
+TETV-NKGTGgn [519; 529]
+EELL-LLLLLll
+
+
+Cry1Aa1 x Cry8Ea1 - (Turn 8)
+
+ELlllllleE
+SQaagavytL [438; 447]
+          
+RN-------P [486; 488]
+LL-------L

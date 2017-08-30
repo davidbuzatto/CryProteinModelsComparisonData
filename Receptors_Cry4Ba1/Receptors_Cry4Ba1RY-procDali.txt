@@ -1,0 +1,70 @@
+Cry4Ba1 x Cry1Aa1 - (R and Y)
+
+HHHHHHHHlLLLL
+RETAVYFSnLVGY [158; 170]
+            |
+TTAIPLLA-VQNY [142; 153]
+HHHHHHHL-LLLL
+
+
+Cry4Ba1 x Cry1Ac1 - (R and Y)
+
+HHHHHHHHlLLLL
+RETAVYFSnLVGY [158; 170]
+      |     |
+TTAIPLFA-VQNY [142; 153]
+HHHHHHHL-LLLL
+
+
+Cry4Ba1 x Cry2Aa1 - (R and Y)
+
+HHHHHHHHlLLLL
+RETAVYFSnLVGY [158; 170]
+      |    ||
+LNRLPQFQ-IQGY [158; 169]
+HHHHHHHL-LLLL
+
+
+Cry4Ba1 x Cry3Aa1 - (R and Y)
+
+HHHHHHHHlLLLL
+RETAVYFSnLVGY [158; 170]
+|     |    ||
+RNSMPSFA-ISGY [178; 189]
+HHHHHHHL-LLLL
+
+
+Cry4Ba1 x Cry3Bb1 - (R and Y)
+
+HHHHHHHHlLLLL
+RETAVYFSnLVGY [158; 170]
+|     |      
+RNSMPSFA-VSKF [179; 190]
+HHHHHHHL-LLLL
+
+
+Cry4Ba1 x Cry4Aa1 - (R and Y)
+
+HHHHHHHHLLL--------LL
+RETAVYFSNLV--------GY [158; 170]
+        |           |
+QNVIPELVNSCppnpsdcdYY [182; 202]
+HHHHHHHHHLLlllhhhhhHH
+
+
+Cry4Ba1 x Cry5B - (R and Y)
+
+HHHHHHHHLLLL-----------L
+RETAVYFSNLVG-----------Y [158; 170]
+      | |               
+TQHLPEFKNPWSdenstqefkrtS [205; 228]
+HHHHHHHLLLLLlllllhhhhhhH
+
+
+Cry4Ba1 x Cry8Ea1 - (R and Y)
+
+HHHHHHHHlLLLL
+RETAVYFSnLVGY [158; 170]
+      |    ||
+TQYMPSFR-VTGY [180; 191]
+HHHHHHHL-LLLL

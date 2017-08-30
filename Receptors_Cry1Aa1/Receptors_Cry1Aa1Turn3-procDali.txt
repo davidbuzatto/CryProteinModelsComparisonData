@@ -1,0 +1,70 @@
+Cry1Aa1 x Cry1Ac1 - (Turn 3)
+
+LLLlLLLLLE
+ASLtTNLPST [391; 400]
+     |||| 
+GTS-SNLPSA [391; 399]
+LLL-LLLLLE
+
+
+Cry1Aa1 x Cry2Aa1 - (Turn 3)
+
+LLllllLLLE
+ASlttnLPST [391; 400]
+          
+TL----SLRC [401; 406]
+LL----LLEE
+
+
+Cry1Aa1 x Cry3Aa1 - (Turn 3)
+
+LLL-LLLLLLE
+ASL-TTNLPST [391; 400]
+    |      
+YNDqTDEASTQ [427; 437]
+EELlLLEEEEE
+
+
+Cry1Aa1 x Cry3Bb1 - (Turn 3)
+
+LLL-LLLLLLE
+ASL-TTNLPST [391; 400]
+           
+YDDqKNETSTQ [429; 439]
+EELlLLEEEEE
+
+
+Cry1Aa1 x Cry4Aa1 - (Turn 3)
+
+LLLLlLLLLE
+ASLTtNLPST [391; 400]
+   |  |   
+TNGT-RLLEK [448; 456]
+ELLL-LEEEE
+
+
+Cry1Aa1 x Cry4Ba1 - (Turn 3)
+
+LLllllLLLE
+ASlttnLPST [391; 400]
+          
+ID----GTLA [401; 406]
+LL----LLEE
+
+
+Cry1Aa1 x Cry5B - (Turn 3)
+
+LlllllLLLE
+AslttnLPST [391; 400]
+          
+V-----NGGS [480; 484]
+L-----LLEE
+
+
+Cry1Aa1 x Cry8Ea1 - (Turn 3)
+
+LLL-LLLLLLE
+ASL-TTNLPST [391; 400]
+           
+IYPdNKYKTTF [432; 442]
+ELLlLLLEEEE

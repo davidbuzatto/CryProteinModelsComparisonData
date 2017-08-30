@@ -1,0 +1,70 @@
+Cry1Aa1 x Cry1Ac1 - (Turn 2)
+
+EEEEEELLLLl
+SSPLYRRIILg [362; 372]
+|| ||||    
+SSTLYRRPFN- [363; 372]
+EEEEEELLLL-
+
+
+Cry1Aa1 x Cry2Aa1 - (Turn 2)
+
+EEEEEELLLLL
+SSPLYRRIILG [362; 372]
+      |    
+LDSGTDREGVA [378; 388]
+LLLEEEEELLL
+
+
+Cry1Aa1 x Cry3Aa1 - (Turn 2)
+
+EEEEEELLLLl
+SSPLYRRIILg [362; 372]
+           
+ANTNLAVWPS- [404; 413]
+EEEEEEEELL-
+
+
+Cry1Aa1 x Cry3Bb1 - (Turn 2)
+
+EEEEEELLLLl
+SSPLYRRIILg [362; 372]
+           
+ANTDVAAWPN- [405; 414]
+EEEEEEELLL-
+
+
+Cry1Aa1 x Cry4Aa1 - (Turn 2)
+
+EEEEEELllll
+SSPLYRRiilg [362; 372]
+   |       
+VISLDNK---- [426; 432]
+EEEELLL----
+
+
+Cry1Aa1 x Cry4Ba1 - (Turn 2)
+
+EEEEEElllll
+SSPLYRriilg [362; 372]
+           
+ITDTSS----- [383; 388]
+EEEEEL-----
+
+
+Cry1Aa1 x Cry5B - (Turn 2)
+
+EEeEEELLLLl
+SSpLYRRIILg [362; 372]
+           
+AR-HLYNAKG- [459; 467]
+EE-EEEELLL-
+
+
+Cry1Aa1 x Cry8Ea1 - (Turn 2)
+
+EEEEEELLLLl
+SSPLYRRIILg [362; 372]
+|          
+STAGVLFAYT- [409; 418]
+EEEEEEELLL-

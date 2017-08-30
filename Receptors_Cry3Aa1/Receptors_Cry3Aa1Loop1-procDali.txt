@@ -1,0 +1,70 @@
+Cry3Aa1 x Cry1Aa1 - (Loop 1)
+
+lLLLL--lLLLLLLlllLH
+tDPIV--gVNNLRGygtTF [305; 321]
+    |              
+-TNPVlenFDGSFR--gMA [269; 284]
+-ELHHhhlLLLLLL--lLH
+
+
+Cry3Aa1 x Cry1Ac1 - (Loop 1)
+
+lLLLL--LLLLLLLlllLH
+tDPIV--GVNNLRGygtTF [305; 321]
+    |              
+-TNPVleNFDGSFR--gSA [269; 284]
+-ELHHhhLLLLLLL--lLH
+
+
+Cry3Aa1 x Cry2Aa1 - (Loop 1)
+
+LLLLLLLllllllLLLH
+TDPIVGVnnlrgyGTTF [305; 321]
+                |
+ASGSGPQ-----qTQSF [277; 288]
+ELLLLLL-----lLLEE
+
+
+Cry3Aa1 x Cry3Bb1 - (Loop 1)
+
+LLLLLLLLLLLLLLLLH
+TDPIVGVNNLRGYGTTF [305; 321]
+||||   | |  || ||
+TDPIFSLNTLQEYGPTF [306; 322]
+LLLLLLLLLLHHHLLLH
+
+
+Cry3Aa1 x Cry4Aa1 - (Loop 1)
+
+LLLLllLLLLllLLLL--H
+TDPIvgVNNLrgYGTT--F [305; 321]
+                  |
+QVLN--FEES--PYKYydF [332; 346]
+EEEL--LLLL--HHHHllH
+
+
+Cry3Aa1 x Cry4Ba1 - (Loop 1)
+
+LlLLLLlLLLLlllLLH
+TdPIVGvNNLRgygTTF [305; 321]
+|   |            
+T-ALVE-SPSS---KSI [293; 304]
+E-EELL-LLLL---LLH
+
+
+Cry3Aa1 x Cry5B - (Loop 1)
+
+LLLL--LLLL-------LLLLLLLL-----------h
+TDPI--VGVN-------NLRGYGTT-----------f [305; 321]
+ |                      |            
+SDTAgpIEEYttgdktsGPEHSNITpnnildtpspty [345; 381]
+LLLLllLLLLlllllllLHHHLLEEellhhhllllll
+
+
+Cry3Aa1 x Cry8Ea1 - (Loop 1)
+
+LLLLLLLL---LLLLLLLLH
+TDPIVGVN---NLRGYGTTF [305; 321]
+||||               |
+TDPIGAIGaqgSWYDSAPSF [307; 326]
+LLLLLLLLlllLHHHLLLLH

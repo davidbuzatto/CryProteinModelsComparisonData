@@ -1,0 +1,70 @@
+Cry1Ac1 x Cry1Aa1 - (Turn 3)
+
+LLL-LLLLLEE
+GTS-SNLPSAV [391; 400]
+     ||||  
+ASLtTNLPSTI [391; 401]
+LLLlLLLLLEE
+
+
+Cry1Ac1 x Cry2Aa1 - (Turn 3)
+
+LLlllLLLEE
+GTssnLPSAV [391; 400]
+          
+TL---SLRCG [401; 407]
+LL---LLEEE
+
+
+Cry1Ac1 x Cry3Aa1 - (Turn 3)
+
+LLL--LLLLLEE
+GTS--SNLPSAV [391; 400]
+            
+YNDqtDEASTQT [427; 438]
+EELllLEEEEEE
+
+
+Cry1Ac1 x Cry3Bb1 - (Turn 3)
+
+LLL--LLLLLEE
+GTS--SNLPSAV [391; 400]
+            
+YDDqkNETSTQT [429; 440]
+EELllLEEEEEE
+
+
+Cry1Ac1 x Cry4Aa1 - (Turn 3)
+
+LLLLLLLLEE
+GTSSNLPSAV [391; 400]
+     |    
+TNGTRLLEKE [448; 457]
+ELLLLEEEEE
+
+
+Cry1Ac1 x Cry4Ba1 - (Turn 3)
+
+LLlllLLLEE
+GTssnLPSAV [391; 400]
+        | 
+ID---GTLAS [401; 407]
+LL---LLEEE
+
+
+Cry1Ac1 x Cry5B - (Turn 3)
+
+llllllLLEE
+gtssnlPSAV [391; 400]
+          
+------NGGS [481; 484]
+------LLEE
+
+
+Cry1Ac1 x Cry8Ea1 - (Turn 3)
+
+LL--LLLLLLEE
+GT--SSNLPSAV [391; 400]
+            
+IYpdNKYKTTFT [432; 443]
+ELllLLLEEEEE

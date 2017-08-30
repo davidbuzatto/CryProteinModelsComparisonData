@@ -1,0 +1,86 @@
+No 1: Query=mol1A Sbjct=mol2A Z-score=21.0
+No:  Chain   Z    rmsd lali nres  %id
+ 1:  mol2-A 21.0  3.3  450   558   14 
+
+DSSP  llllllllllllllllllllllllhhhhllhhhhhhhhhhhhhhllllllllhhhhhhhh
+Query mnnvlnsgrtticdaynvvahdpfsfehksldtiqkewmewkrtdhslyvapvvgtvssf   60
+ident                                                             
+Sbjct ------------------------------------------------------------    0
+DSSP  ------------------------------------------------------------
+
+
+DSSP  hhhhhllllllllhhhhhhhhlhhhllhhhhhhhHHHHhhHLLL--------lLHHHHHH
+Query llkkvgsligkrilselwgiifpsgstnlmqdilRETEqfLNQR--------lNTDTLAR  112
+ident                                                             
+Sbjct ------------------------------tperVWND--FMTNtgnlidqtvTAYVRTD   28
+DSSP  ------------------------------llllLLLL--LLLLlllhhhhhhHHHHHHH
+
+
+DSSP  HHHHHHHHHHHHHHHHHHHHHHHLL-lllLLLLHHHHHHHHHHHHHHHHHHHHL-LLLLH
+Query VNAELIGLQANIREFNQQVDNFLNP-tqnPVPLSITSSVNTMQQLFLNRLPQFQ-IQGYQ  170
+ident  ||                                    |            |    || 
+Sbjct ANAKMTVVKDYLDQYTTKFNTWKREpnnqSYRTAVITQFNLTSAKLRETAVYFSnLVGYE   88
+DSSP  HHHHHHHHHHHHHHHHHHHHHHHHLlllhHHHHHHHHHHHHHHHHHHHHHHHHHlLLLLL
+
+
+DSSP  HHHHHHHHHHHHHHHHHHHHHHHLHHHHLLLHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+Query LLLLPLFAQAANMHLSFIRDVILNADEWGISAATLRTYRDYLRNYTRDYSNYCINTYQTA  230
+ident |||||  || ||  |  |||   || ||                ||  |    |  |   
+Sbjct LLLLPIYAQVANFNLLLIRDGLINAQEWSLARSAGDQLYNTMVQYTKEYIAHSITWYNKG  148
+DSSP  LLLHHHHHHHHHHHHHHHHHHHHLHHHHLLLLLLHHHHHHHHHHHHHHHHHHHHHHHHHH
+
+
+DSSP  HHLL-----EEEHhHHHHHHHHHHHHLHHHHHHHLLL--LLLL---------EELLLLLL
+Query FRGL-----NTRLhDMLEFRTYMFLNVFEYVSIWSLF--KYQS---------LMVSSGAN  274
+ident    |                  |   |                                 
+Sbjct LDVLrnksnGQWI-TFNDYKREMTIQVLDILALFASYdpRRYPadkidntklSKTEFTRE  207
+DSSP  HHHHhllllLLHH-HHHHHHHHHHHHLHHHHLLHHHHllLLLLlllllllllLLLLLLLE
+
+
+DSSP  EEELLLLLLLLLEEEhhHHHHHhhHHLLLLLLLEEEEEEEEEEEEeellllllleeEEEE
+Query LYASGSGPQQTQSFTaqNWPFLysLFQVNSNYILSGISGTRLSITfpnigglpgstTTHS  334
+ident  |          |              |     |         |                
+Sbjct IYTALVESPSSKSIA--ALEAA-lTRDVHLFTWLKRVDFWTNTIY----------qDLRF  254
+DSSP  EEEEELLLLLLLLHH--HHHHH-hLLLLLLLEEEEEEEEEEELLL----------hHHLL
+
+
+DSSP  EEEEEEEEH-----HHLLLLLEELLL--LLLLEEEELLlllllLLEEEEELLLEEEeell
+Query LNSARVNYS-----GGVSSGLIGATN--LNHNFNCSTVlpplsTPFVRSWLDSGTDregv  387
+ident |       |         ||  |      |                              
+Sbjct LSANKIGFSytnssAMQESGIYGSSGfgSNLTHQIQLN-----SNVYKTSITDTSS----  305
+DSSP  EEEEEEEEEellllLLEELLLEELLLllEEEEEEEELL-----LLEEEEEEEEEEL----
+
+
+DSSP  leeeeeLLLEEEELLLLEEELL--------llLLLEELL--------------LLLEEeE
+Query atstnwQTESFQTTLSLRCGAF--------saRGNSNYF--------------PDYFIrN  425
+ident           |                     |     |                     
+Sbjct -psnrvTKMDFYKIDGTLASYNsnitptpeglRTTFFGFstnentpnqptvndYTHIL-S  363
+DSSP  -leeeeEEEEEEELLLLEEEEEllllllllleEEEEEELllllllllllllllLLEEE-E
+
+
+DSSP  EEEEELLllhhhhllllllllllllllllllllLLLEEEEEEEEL-LLLEEeelllllee
+Query ISGVPLVirnedltrplhynqirniespsgtpgGARAYLVSVHNR-KNNIYaanengtmi  484
+ident                                                             
+Sbjct YIKTDVI-------------------------dYNSNRVSFAWTHkIVDPN---------  389
+DSSP  EEEEEEE-------------------------eLLEEEEEEEEEElLLLLL---------
+
+
+DSSP  EELLlLLLEEEELLLLLLEELLhhHEEEELL-LLLLLLEEEELL---LLEEEEEEEELL-
+Query HLAPeDYTGFTISPIHATQVNNqtRTFISEK-FGNQGDSLRFEQ---SNTTARYTLRGN-  539
+ident                     |               ||                      
+Sbjct NQIY-TDAITQVPAVKSNFLNA--TAKVIKGpGHTGGDLVALTSngtLSGRMEIQCKTSi  446
+DSSP  LEEL-LLLLEEEEHHHLLEELL--LEEEELLlLLLLLLEEEELLlllLLLLEEEEEEELl
+
+
+DSSP  ----LEEEEEEEEEELLLLEEEEEEEL----LEEEEEEEELLLLllllleELLE---ELE
+Query ----GNSYNLYLRVSSIGNSTIRVTIN----GRVYTVSNVNTTTnndgvnDNGA---RFS  588
+ident       || |  |          |        |  | |   |                | 
+Sbjct fndpTRSYGLRIRYAANSPIVLNVSYVlqgvSRGTTISTESTFSrpnniiPTDLkyeEFR  506
+DSSP  llllLEEEEEEEEEEELLLLEEEEEEEelleEEEEEEELLLLLLlhhhllLLLLlhhHLE
+
+
+DSSP  EEEEE----EEEELLLLEEEEEEEEE-LLLLLLEEEEEEEEEELL--lllll
+Query DINIG----NIVASDNTNVTLDINVT-LNSGTPFDLMNIMFVPTN--lpply  633
+ident              | |   |  |      |        |   |         
+Sbjct YKDPFdaivPMRLSSNQLITIAIQPLnMTSNNQVIIDRIEIIPITqsvldet  558
+DSSP  EEEEEllllLEEELLLLEEEEEEEELlLLLLLLEEEEEEEEEELLhhhhhhl

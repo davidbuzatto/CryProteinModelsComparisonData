@@ -1,0 +1,86 @@
+No 1: Query=mol1A Sbjct=mol2A Z-score=23.0
+No:  Chain   Z    rmsd lali nres  %id
+ 1:  mol2-A 23.0  3.3  458   585   17 
+
+DSSP  llhhhhhhhhhhhhhhlllllhhhhhhhhhhllllllhhhhhhhhhhhhhhhllLLLHhH
+Query ytpidislsltqfllsefvpgagfvlglvdiiwgifgpsqwdaflvqieqlinqRIEEfA   60
+ident                                                             
+Sbjct ----------------------------------kdqqlfnaimdavnkmvdnkFLSY-N   25
+DSSP  ----------------------------------lllhhhhhhhhhhhhhhhhhHHHH-H
+
+
+DSSP  HHHHHHHHHHHHHHHHHHHHHHHHHHH-----------------lLLLHHHHHHHHHHHH
+Query RNQAISRLEGLSNLYQIYAESFREWEA-----------------dPTNPALREEMRIQFN  103
+ident         |||                                               | 
+Sbjct LSTLNKTIEGLQGNLGLFQNAIQVAICqgstperfdqnctpcnpnQPCKDDLDRVASRFD   85
+DSSP  HHHHHHHHHHHHHHHHHHHHHHHHHLLllllllllllllllllllLLLHHHHHHHHHHHH
+
+
+DSSP  HHHHHHHHHHHHHLLLL------------LHHHHHHHHHHHHHHHHHHHHHHHHHLH-HH
+Query DMNSALTTAIPLLAVQN------------YQVPLLSVYVQAANLHLSVLRDVSVFGQ-RW  150
+ident   ||  |   |                       |  |   | |||        |     
+Sbjct TANSQFTQHLPEFKNPWsdenstqefkrtSVELTLPMYTTVATLHLLLYEGYIEFMTkWN  145
+DSSP  HHHHHHHHHHHHHLLLLllllllhhhhhhHHHHHHHHHHHHHHHHHHHHHHHHHHHHhLL
+
+
+DSSP  LLLHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHhhHLLL--LHHHHHHHHHHHHHHHHHL
+Query GFDAATINSRYNDLTRLIGNYTDYAVRWYNTGLerVWGP--DSRDWVRYNQFRRELTLTV  208
+ident        |     |  ||  |           |               ||   |  |   
+Sbjct FHNEQYLNNLKVELQQLIHSYSETVRTSFLQFL--PTLNnrSKSSVNAYNRYVRNMTVNC  203
+DSSP  LLLHHHHHHHHHHHHHHHHHHHHHHHHHHHHHL--LLLLllLHHHHHHHHHHHHHHHHHL
+
+
+DSSP  HHHHLLHHHHLLLLLLLLEELLLLLEEE-ELHH-------hhllLLLLLlLHHHH-----
+Query LDIVALFSNYDSRRYPIRTVSQLTREIY-TNPV-------lenfDGSFRgMAQRI-----  255
+ident ||| |     |   |       ||| |                  |              
+Sbjct LDIAATWPTFDTHNYHQGGKLDLTRIILsDTAGpieeyttgdktSGPEH-SNITPnnild  262
+DSSP  HHHHLLHHHHLLLLLLLLEEELLLLLEElLLLLlllllllllllLLHHH-LLEEEllhhh
+
+
+DSSP  ---------HHLL-LLLLLLEEEEEEEEEEEEE--LLEEEEEEEEEEEEehhhllLLEEL
+Query ---------EQNI-RQPHLMDILNSITIYTDVH--RGFNYWSGHQITASpvgfsgPEFAF  303
+ident                       |    | |            |                 
+Sbjct tpsptyqhsFVSVdSIVYSRKELQQLDIATYSTnnSNNCHPYGLRLSYT------DGSRY  316
+DSSP  lllllllllLLLHhHLLLLLLLEEEEEEEEELLllLLLLEEEEEEEEEL------LLLEE
+
+
+DSSP  lLEELL-------llLEEEEEEELlllLEEEEEEEeEEELLLLlllllLLLEeeeEEEEE
+Query pLFGNA-------gnAAPPVLVSLtglGIFRTLSSpLYRRIILgsgpnNQELfvlDGTEF  356
+ident    |                        |                               
+Sbjct -DYGDNqpdfttsnnNYCHNSYTA---PITLVNAR-HLYNAKG-----SLQN--vESLVV  364
+DSSP  -EEELLlllllllllLEEEEEEEL---LEEEEEEE-EEEELLL-----LLEE--eEEEEE
+
+
+DSSP  EELlllllLLLEEEL----------lllLEEHhhLLLLllllllhhhhlLEEEEEELLEE
+Query SFAslttnLPSTIYR----------qrgTVDSldVIPPqdnsvppragfSHRLSHVTMLS  406
+ident |                           |        |                      
+Sbjct STV-----NGGSGSCicdawinylrppqTSKN--ESRP-----------DQKINVLYPIT  406
+DSSP  EEL-----LLEELLLlhhhhhhhlllleELLL--LLLL-----------LEEEEEEEEEE
+
+
+DSSP  LLLlLLLEE--EELLEEEEELLLLLLLEEL---------LLLEEEEEHHHLLEEL--LLL
+Query QAAgAVYTL--RAPTFSWQHRSAEFNNIIP---------SSQITQIPLTKSTNLG--SGT  453
+ident        |                  | |            |    |  |        | 
+Sbjct ETV-NKGTGgnLGVISAYVPMELVPENVIGdvnadtklpLTQLKGFPFEKYGSEYnnRGI  465
+DSSP  ELL-LLLLLllLEEEEEEEELLLLLLEEELlllllllllLLLEEEEELLLLLHHHllLLL
+
+
+DSSP  EEELLlLLLLLLEEEELLLEEeEEEEEEELLLllLLEEEEEEEEELLLEEEEEEELL---
+Query SVVKGpGFTGGDILRRTSPGQiSTLRVNITAPlsQRYRVRIRYASTTNLQFHTSIDG---  510
+ident | |      |                        | |  | ||||          |    
+Sbjct SLVRE-WINGNNAVKLSNSQS-VGIQITNQTK--QKYEIRCRYASKGDNNVYFNVDLsen  521
+DSSP  LEEEE-HHHLEEEEEELLLLE-EEEEEEELLL--EEEEEEEEEEELLLEEEEEEELLlll
+
+
+DSSP  EEEEEEEELLLLLllllLLHH----HLEEEELLlLLLLLLLEEEEEEEEELLlllLLEEE
+Query RPINQGNFSATMSsgsnLQSG----SFRTVGFTtPFNFSNGSSVFTLSAHVFnsgNEVYI  566
+ident    |   |  | |                   |       ||                  
+Sbjct PFRNSISFGSTES--svVGVQgengKYILKSIT-TVEIPAGSFYVHITNQGS---SDLFL  575
+DSSP  LEEEEEEELLLLL--llLLEEllllEEEEEEEE-EEEELLEEEEEEEEELLL---LLEEE
+
+
+DSSP  EEEEEEELLLl
+Query DRIEFVPAEVt  577
+ident |||||||    
+Sbjct DRIEFVPKIQ-  585
+DSSP  EEEEEEELLL-

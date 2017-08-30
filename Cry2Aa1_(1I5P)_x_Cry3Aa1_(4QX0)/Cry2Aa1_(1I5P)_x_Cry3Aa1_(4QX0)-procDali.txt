@@ -1,0 +1,414 @@
+    ------ 01 ---------------------
+    Cry2Aa1: [  47;  51]
+    Cry3Aa1: [  61;  65]
+
+ 47 LLLLL  51
+    SLYVA
+         
+    TTKDV
+  1 LLHHH   5
+
+
+
+    ------ 02 ---------------------
+    Cry2Aa1: [  52;  69]
+    Cry3Aa1: [  67;  84]
+
+ 52 LHHHHHHHHHHHHHLLLL  69
+    PVVGTVSSFLLKKVGSLI
+         |   ||  ||   
+    QKGISVVGDLLGVVGFPF
+  7 HHHHHHHHHHLLLLLLLL  24
+
+
+
+    ------ 03 ---------------------
+    Cry2Aa1: [  70;  73]
+    Cry3Aa1: [  87;  90]
+
+ 70 LLLL  73
+    GKRI
+        
+    ALVS
+ 27 HHHH  30
+
+
+
+    ------ 04 ---------------------
+    Cry2Aa1: [  74;  83]
+    Cry3Aa1: [  92; 101]
+
+ 74 HHHHHHHHLH  83
+    LSELWGIIFP
+           | |
+    YTNFLNTIWP
+ 32 HHHHHHHLLL  41
+
+
+
+    ------ 05 ---------------------
+    Cry2Aa1: [  86; 138]
+    Cry3Aa1: [ 102; 154]
+
+ 86 LLHHHHHHHHHHHHHHLLLLLHHHHHHHHHHHHHHHHHHHHHHHHHHHHHLLL 138
+    STNLMQDILRETEQFLNQRLNTDTLARVNAELIGLQANIREFNQQVDNFLNPT
+    |           |    |           ||| ||| |               
+    SEDPWKAFMEQVEALMDQKIADYAKNKALAELQGLQNNVEDYVSALSSWQKNP
+ 42 LHHHHHHHHHHHHHHHLLLLLHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHLL  94
+
+
+
+    ------ 06 ---------------------
+    Cry2Aa1: [ 142; 236]
+    Cry3Aa1: [ 162; 256]
+
+142 LLLHHHHHHHHHHHHHHHHHHHHLLLLLHHHHHHHHHHHHHHHHHHHHHHHHLHHHHLLL 201
+    VPLSITSSVNTMQQLFLNRLPQFQIQGYQLLLLPLFAQAANMHLSFIRDVILNADEWGIS
+        |          | |  | | | ||  | |   ||||| ||    |      |||  
+    SQGRIRELFSQAESHFRNSMPSFAISGYEVLFLTTYAQAANTHLFLLKDAQIYGEEWGYE
+102 HHHHHHHHHHHHHHHHHHHHHHHLLLLLLLLLHHHHHHHHHHHHHHHHHHHHHLLLLLLL 161
+
+
+    ------ 06 (fim) ---------------
+
+202 HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHLLEE 236
+    AATLRTYRDYLRNYTRDYSNYCINTYQTAFRGLNT
+                  |  |   |   |      |  
+    KEDIAEFYKRQLKLTQEYTDHCVKWYNVGLDKLRG
+162 HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHLLL 196
+
+
+
+    ------ 07 ---------------------
+    Cry2Aa1: [ 237; 263]
+    Cry3Aa1: [ 261; 287]
+
+237 EHHHHHHHHHHHHHHLHHHHHHHLLLL 263
+    RLHDMLEFRTYMFLNVFEYVSIWSLFK
+            |  | | |        |  
+    SWVNFNRYRREMTLTVLDLIALFPLYD
+201 HHHHHHHHHHHHHHHLHHHHLLHHHHL 227
+
+
+
+    ------ 08 ---------------------
+    Cry2Aa1: [ 264; 283]
+    Cry3Aa1: [ 292; 311]
+
+264 LLLEELLLLLLEEELLLLLL 283
+    YQSLMVSSGANLYASGSGPQ
+                        
+    PKEVKTELTRDVLTDPIVGV
+232 LLLEELLLLLEEELLLLLLL 251
+
+
+
+    ------ 09 ---------------------
+    Cry2Aa1: [ 285; 289]
+    Cry3Aa1: [ 318; 322]
+
+285 LLEEE 289
+    TQSFT
+       | 
+    GTTFS
+258 LLLHH 262
+
+
+
+    ------ 10 ---------------------
+    Cry2Aa1: [ 292; 296]
+    Cry3Aa1: [ 324; 328]
+
+292 HHHHH 296
+    NWPFL
+         
+    IENYI
+264 HHLLL 268
+
+
+
+    ------ 11 ---------------------
+    Cry2Aa1: [ 299; 302]
+    Cry3Aa1: [ 329; 332]
+
+299 HHLL 302
+    LFQV
+        
+    RKPH
+269 LLLL 272
+
+
+
+    ------ 12 ---------------------
+    Cry2Aa1: [ 304; 322]
+    Cry3Aa1: [ 333; 351]
+
+304 LLLLEEEEEEEEEEEEEEL 322
+    SNYILSGISGTRLSITFPN
+        |  |           
+    LFDYLHRIQFHTRFQPGYY
+273 LLEEEEEEEEEEEEELLLL 291
+
+
+
+    ------ 13 ---------------------
+    Cry2Aa1: [ 329; 343]
+    Cry3Aa1: [ 353; 367]
+
+329 EEEEEEEEEEEEEEH 343
+    STTTHSLNSARVNYS
+               |   
+    NDSFNYWSGNYVSTR
+293 LLLEEEEEEEEEEEE 307
+
+
+
+    ------ 14 ---------------------
+    Cry2Aa1: [ 344; 354]
+    Cry3Aa1: [ 374; 384]
+
+344 HHLLLLLEELL 354
+    GGVSSGLIGAT
+        |   |  
+    DIITSPFYGNK
+314 LLEELLLEELL 324
+
+
+
+    ------ 15 ---------------------
+    Cry2Aa1: [ 359; 365]
+    Cry3Aa1: [ 389; 395]
+
+359 LEEEELL 365
+    NFNCSTV
+      |    
+    VQNLEFN
+329 LEEEELL 335
+
+
+
+    ------ 16 ---------------------
+    Cry2Aa1: [ 370; 386]
+    Cry3Aa1: [ 396; 412]
+
+370 LLLEEEEELLLEEEEEL 386
+    STPFVRSWLDSGTDREG
+         |           
+    GEKVYRAVANTNLAVWP
+336 LLEEEEEEEEEEEEEEL 352
+
+
+
+    ------ 17 ---------------------
+    Cry2Aa1: [ 388; 394]
+    Cry3Aa1: [ 413; 419]
+
+388 LEEEEEL 394
+    ATSTNWQ
+           
+    SAVYSGV
+353 LEEEEEE 359
+
+
+
+    ------ 18 ---------------------
+    Cry2Aa1: [ 395; 401]
+    Cry3Aa1: [ 421; 427]
+
+395 LLEEEEL 401
+    TESFQTT
+       |   
+    KVEFSQY
+361 EEEEEEE 367
+
+
+
+    ------ 19 ---------------------
+    Cry2Aa1: [ 402; 409]
+    Cry3Aa1: [ 434; 441]
+
+402 LLLEEELL 409
+    LSLRCGAF
+     |      
+    ASTQTYDS
+374 EEEEEEEL 381
+
+
+
+    ------ 20 ---------------------
+    Cry2Aa1: [ 412; 416]
+    Cry3Aa1: [ 448; 452]
+
+412 LLLEE 416
+    RGNSN
+         
+    VSWDS
+388 EEEEH 392
+
+
+
+    ------ 21 ---------------------
+    Cry2Aa1: [ 417; 420]
+    Cry3Aa1: [ 456; 459]
+
+417 LLLL 420
+    YFPD
+      | 
+    LPPE
+396 LLLL 399
+
+
+
+    ------ 22 ---------------------
+    Cry2Aa1: [ 421; 432]
+    Cry3Aa1: [ 470; 481]
+
+421 LEEEEEEEEELL 432
+    YFIRNISGVPLV
+        |     | 
+    SHQLNYVMCFLM
+410 LEEEEEEEEEEL 421
+
+
+
+    ------ 23 ---------------------
+    Cry2Aa1: [ 460; 475]
+    Cry3Aa1: [ 486; 501]
+
+460 LLEEEEEEEELLLLEE 475
+    ARAYLVSVHNRKNNIY
+                    
+    GTIPVLTWTHKSVDFF
+426 LEEEEEEEEELLLLLL 441
+
+
+
+    ------ 24 ---------------------
+    Cry2Aa1: [ 485; 488]
+    Cry3Aa1: [ 502; 505]
+
+485 EELL 488
+    HLAP
+        
+    NMID
+442 LEEL 445
+
+
+
+    ------ 25 ---------------------
+    Cry2Aa1: [ 490; 506]
+    Cry3Aa1: [ 506; 522]
+
+490 LLLEEEELLLLLLEELL 506
+    DYTGFTISPIHATQVNN
+               |     
+    SKKITQLPLVKAYKLQS
+446 LLLEEEEEHHHLLEELL 462
+
+
+
+    ------ 26 ---------------------
+    Cry2Aa1: [ 509; 515]
+    Cry3Aa1: [ 523; 529]
+
+509 HEEEELL 515
+    RTFISEK
+           
+    GASVVAG
+463 LLEEELL 469
+
+
+
+    ------ 27 ---------------------
+    Cry2Aa1: [ 516; 540]
+    Cry3Aa1: [ 531; 555]
+
+516 LLLLLLEEEELLLLEEEEEEEELLL 540
+    FGNQGDSLRFEQSNTTARYTLRGNG
+        ||          |        
+    RFTGGDIIQCTENGSAATIYVTPDV
+471 LLLLLLEEEELLLEEEEEEELEELL 495
+
+
+
+    ------ 28 ---------------------
+    Cry2Aa1: [ 541; 562]
+    Cry3Aa1: [ 559; 580]
+
+541 EEEEEEEEEELLLLEEEEEEEL 562
+    NSYNLYLRVSSIGNSTIRVTIN
+      |       |    |      
+    QKYRARIHYASTSQITFTLSLD
+499 LEEEEEEEEEELLLEEEEEEEL 520
+
+
+
+    ------ 29 ---------------------
+    Cry2Aa1: [ 563; 575]
+    Cry3Aa1: [ 582; 594]
+
+563 LEEEEEEEELLLL 575
+    GRVYTVSNVNTTT
+              |  
+    APFNQYYFDKTIN
+522 EEEEEEEELLLLL 534
+
+
+
+    ------ 30 ---------------------
+    Cry2Aa1: [ 578; 581]
+    Cry3Aa1: [ 599; 602]
+
+578 LLLE 581
+    DGVN
+       |
+    LTYN
+539 LLHH 542
+
+
+
+    ------ 31 ---------------------
+    Cry2Aa1: [ 586; 592]
+    Cry3Aa1: [ 603; 609]
+
+586 ELEEEEE 592
+    RFSDINI
+     |     
+    SFNLASF
+543 HLEEEEL 549
+
+
+
+    ------ 32 ---------------------
+    Cry2Aa1: [ 593; 598]
+    Cry3Aa1: [ 611; 616]
+
+593 EEEEEL 598
+    GNIVAS
+         |
+    TPFELS
+551 LLEELL 556
+
+
+
+    ------ 33 ---------------------
+    Cry2Aa1: [ 602; 613]
+    Cry3Aa1: [ 617; 628]
+
+602 EEEEEEEEELLL 613
+    NVTLDINVTLNS
+       | | ||  |
+    GNNLQIGVTGLS
+557 LLEEEEEEELLL 568
+
+
+
+    ------ 34 ---------------------
+    Cry2Aa1: [ 614; 628]
+    Cry3Aa1: [ 630; 644]
+
+614 LLLEEEEEEEEEELL 628
+    GTPFDLMNIMFVPTN
+    |       | | | |
+    GDKVYIDKIEFIPVN
+570 LLLEEEEEEEEEEEL 584
