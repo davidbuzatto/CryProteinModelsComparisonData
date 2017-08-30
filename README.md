@@ -41,7 +41,7 @@ The folders that are named using the pattern **Protein1**\_(**ModelId1**)\_x\_**
 
 ## How to Execute the .bat Files
 
-The Windows batch files (extension .bat) can be executed just double clicking them, but in this case, since our .bat files runs the VMD to open the TCL scripts, you will need to make VMD accessible throught the command line. To do this, you will need to configure your PATH envinronment variable to point to the VMD installation path. The path to VMD after its intallation, in its verison 1.9.3, is normally "C:\Program Files (x86)\University of Illinois\VMD", so, you will need to configure the PATH envinronment variable to map the VMD path. To do this, you can use lots of tutorials available on the web like this: [How to set the path and environment variables in Windows](https://www.computerhope.com/issues/ch000549.htm).
+The Windows batch files (extension .bat) can be executed just double clicking them, but in this case, since our .bat files runs the VMD to open the TCL scripts, you will need to make VMD accessible throught the command line. To do this, you will need to configure your PATH envinronment variable to point to the VMD installation path. The path to VMD after its installation (version 1.9.3), is normally "C:\Program Files (x86)\University of Illinois\VMD", so, you will need to configure the PATH envinronment variable to map the VMD path. To do this, you can use lots of tutorials available on the web like this: [How to set the path and environment variables in Windows](https://www.computerhope.com/issues/ch000549.htm).
 
 
 # Acknowledgments
