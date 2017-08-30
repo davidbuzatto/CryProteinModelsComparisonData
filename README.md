@@ -17,12 +17,17 @@ Cry8Ea1 | 3EB7
 The package is organized as follows:
 
  - Two kinds of folders:
- -- **Protein1**XXX(**ModelId1**)\_x\_**Protein2**\_(**ModelId2**)
- -- Receptors\_**Protein**
+ 
+ -- **Protein1**XXX(**ModelId1**)\_x\_**Protein2**\_(**ModelId2**);
+ 
+ -- Receptors\_**Protein**.
+ 
 
 The folders that are named using the pattern **Protein1**\_(**ModelId1**)\_x\_**Protein2**\_(**ModelId2**), for example Cry1Aa1\_(1CIY)\_x\_Cry1Ac1\_(4ARX), contains data related to the comparison between the two protein models defined in its name. The folers that are name using the pattern Receptors\_**Protein**, for example Receptors\_Cry1Aa1, contains data related to the comparison between the protein defined in its name and all the other protein models (table above), focusing in the receptor regions pointed out in the literature related to the Cry protein activity. Each folder contains various kings of files, which are described below:
 
-## - **Protein1**\_(**ModelId1**)\_x\_**Protein2**\_(**ModelId2**)
+
+## **Protein1**\_(**ModelId1**)\_x\_**Protein2**\_(**ModelId2**)
+
  - aligned\_mol1A\_**Protein1**\_(**ModelId1**).pdb: PDB file containing the Dali result for Protein1/Model1;
  - aligned\_mol2A\_**Protein2**\_(**ModelId2**).pdb: PDB file containing the Dali result for Protein2/Model2;
  - **Protein1**\_(**ModelId1**)\_x\_**Protein2**\_(**ModelId2**)-rawDali.txt: Dali output result for the best structural alignment between Protein1/Model1 and Protein2/Model2;
@@ -31,7 +36,9 @@ The folders that are named using the pattern **Protein1**\_(**ModelId1**)\_x\_**
  - scriptSlice**ReceptorRegion**\_**Protein1**\_**ProteinX**.tcl: TCL script used to open the **ReceptorRegion** slice of the structural alignment between **Protein1** and **ProteinX** in [VMD][VMDURL] (the batch file that uses this file is contained in the Receptors folders);
  - visualizeSlice**N**.bat: Windows batch file used to invoke [VMD][VMDURL], passing the corresponding TCL file to open the slice **N** of the structural alignment.
 
-## - Receptors\_**Protein**
+
+## Receptors\_**Protein**
+
  - **ProteinReceptorRegion**.png: PNG image file containing the detailed image of all **ReceptorRegions** in **Protein** against the compared proteins;
  - **ProteinReceptorRegion**\_**ProteinN**.png: PNG image file containing the detailed image of **ReceptorRegions** in **Protein** against the compared **ProteinN**;
  - Receptors\_**ProteinReceptorRegion**-procDali.txt: Dali output result for the best structural alignment between **Protein** and the compared proteins at the **ReceptorRegion**;
@@ -48,6 +55,7 @@ We thank the Instituto Federal de Educação, Ciência e Tecnologia de São Paul
 The objective of this data is to show the results of a Ph. D. project developed by David Buzatto under the advisement of Prof. Sônia Marli Zinagaretti at UNAERP, Universidade de Ribeirão Preto.
 
 Prof. M. Sc. David Buzatto [academic curriculum][lattesDavid].
+
 Prof. Ph. D. Sônia Marli Zingaretti [academic curriculum][lattesSonia].
 
 The models presented here were obtained in [RCSB Protein Data Bank][pdbURL] and were processed by the [Dali pairwise comparison service][daliURL].
