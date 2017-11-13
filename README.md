@@ -20,7 +20,7 @@ The package is organized as follows:
   * **Protein1**XXX(**ModelId1**)\_x\_**Protein2**\_(**ModelId2**);
   * Receptors\_**Protein**.
 
-The folders that are named using the pattern **Protein1**\_(**ModelId1**)\_x\_**Protein2**\_(**ModelId2**), for example Cry1Aa1\_(1CIY)\_x\_Cry1Ac1\_(4ARX), contains data related to the comparison between the two protein models defined in its name. The folers that are name using the pattern Receptors\_**Protein**, for example Receptors\_Cry1Aa1, contains data related to the comparison between the protein defined in its name and all the other protein models (table above), focusing in the receptor regions pointed out in the literature related to the Cry protein activity. Each folder contains various kings of files, which are described below:
+The folders that are named using the pattern **Protein1**\_(**ModelId1**)\_x\_**Protein2**\_(**ModelId2**), for example Cry1Aa1\_(1CIY)\_x\_Cry1Ac1\_(4ARX), contains data related to the comparison between the two protein models defined in its name, i.e., Cry1Aa1 and Cry1Ac1. The folders that are named using the pattern Receptors\_**Protein**, for example Receptors\_Cry1Aa1, contains data related to the comparison between the protein defined in its name and all the other protein models (table above), focusing in the receptor regions pointed out in the literature related to the Cry protein activity. Each folder contains various kinds of files, which are described below:
 
 ## **Protein1**\_(**ModelId1**)\_x\_**Protein2**\_(**ModelId2**)
 
@@ -51,11 +51,11 @@ We thank the Instituto Federal de Educação, Ciência e Tecnologia de São Paul
 
 # About
 
-The objective of this data is to show the results of a Ph. D. project developed by David Buzatto under the advisement of Prof. Sônia Marli Zinagaretti at UNAERP, Universidade de Ribeirão Preto.
+The objective of this data is to show the results of a Ph. D. project developed by David Buzatto under the advisement of Prof. Sonia Marli Zinagaretti at UNAERP, Universidade de Ribeirão Preto.
 
 Prof. M. Sc. David Buzatto [academic curriculum][lattesDavid].
 
-Prof. Ph. D. Sônia Marli Zingaretti [academic curriculum][lattesSonia].
+Prof. Ph. D. Sonia Marli Zingaretti [academic curriculum][lattesSonia].
 
 The models presented here were obtained in [RCSB Protein Data Bank][pdbURL] and were processed by the [Dali pairwise comparison service][daliURL].
 
